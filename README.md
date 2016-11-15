@@ -13,8 +13,8 @@ Remember to fork and clone this lab if you haven't already.
 ### Background
 
 For this lab, you're going to be pretending that you work for National Geographic's Photography contest and that your assignment is to make a quick mockup of what the home page will look like. You want to include photos from the past five winners on the page.
- 
-### Branching
+
+### Branching 
 
 Before altering your code base, open `index.html` in the browser. In the first part of this lab, you're going to add a photo of a turtle below the image of the tree to a branch then merge that branch into master.
 
